@@ -1,0 +1,79 @@
+---
+title: "Hands-on Programming with R: Activity in Sec Math 17"
+author: "Ryan Jhon Lee N. Lajola"
+format: html
+editor: visual
+---
+
+# CHAPTER 1: The Very basics
+
+```{r}
+1+1
+```
+
+```{r}
+100:130
+```
+
+```{r}
+5-++1
+```
+
+```{r}
+2*3
+```
+
+```{r}
+11+20
+```
+
+```{r}
+6/(4-1)
+```
+
+```{r}
+10+2
+```
+
+```{r}
+1:6
+```
+
+```{r}
+10-5
+```
+
+```{r}
+a <- 1
+a
+```
+
+```{r}
+a
+```
+
+```{r}
+a+2
+```
+
+## Creating a Die
+
+```{r}
+die <- 1:6
+```
+
+```{r}
+die * die
+```
+
+```{r}
+ls()
+```
+
+```{r}
+b<-die - 
+```
+
+```{r}
+die/2
+```
