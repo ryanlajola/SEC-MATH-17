@@ -12,3 +12,4 @@ editor: visual
 Review the pipeline because sir will make it a part of our exam.
 
 ![Pipeline](r4ds_pics/r4ds.pic1.png)
+![Pipeline](r4ds_pics/r4ds.pic1.png){width="1505"}
