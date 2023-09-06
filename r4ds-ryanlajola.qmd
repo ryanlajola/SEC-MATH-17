@@ -1,0 +1,12 @@
+---
+title: "R for Data Science (2e): Activity in Sec math 17"
+author: "Ryan Lajola"
+format: html
+editor: visual
+---
+
+# Introduction
+
+## What Will You Learn
+
+Review the pipeline because sir will make it a part of our exam.![Pipeline](r4ds_pics/r4ds.pic1.png)
